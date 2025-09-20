@@ -40,9 +40,9 @@ desafioauvoqa/
 │   │   │   └── productsElements.js
 │   │   ├── pages/              # Page Object Model
 │   │   │   ├── cartPage.js
-│   │   │   ├── checkoutPage.js
 │   │   │   ├── checkoutCompletePage.js
 │   │   │   ├── checkoutOverviewPage.js
+│   │   │   ├── checkoutPage.js
 │   │   │   ├── headerPage.js
 │   │   │   ├── loginPage.js
 │   │   │   ├── productPage.js
