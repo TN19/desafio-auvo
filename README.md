@@ -6,6 +6,11 @@ Este projeto é uma **Prova de Conceito (POC)** de automação de testes web des
 
 A automação foi implementada utilizando **Playwright** com **JavaScript** e arquitetura **Page Object Model (POM)**, cobrindo desde o login até a finalização do pedido.
 
+O processo de desenvolvimento contou com o uso da funcionalidade **`codegen` do Playwright** para acelerar a criação de testes e páginas, reduzindo esforço manual e garantindo maior produtividade.  
+
+Tempo total de desenvolvimento: **~3 horas**  
+(etapas: instalação do Playwright → configuração inicial → escrita dos testes → versionamento no GitHub -> revisão)
+
 ## 🎯 Fluxo de Teste Implementado
 
 1. **Login**: Autenticação com credenciais padrão
@@ -72,8 +77,8 @@ desafioauvoqa/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/desafioauvoqa.git
-cd desafioauvoqa
+git clone https://github.com/TN19/desafio-auvo.git
+cd desafio-auvo
 ```
 
 ### 2. Instalar dependências
