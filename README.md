@@ -31,7 +31,9 @@ desafioauvoqa/
 │   ├── e2e/
 │   │   ├── elements/           # Seletores centralizados
 │   │   │   ├── cartElements.js
+│   │   │   ├── checkoutCompleteElements.js
 │   │   │   ├── checkoutElements.js
+│   │   │   ├── checkoutOverviewElements.js
 │   │   │   ├── headerElements.js
 │   │   │   ├── loginElements.js
 │   │   │   ├── productElements.js
