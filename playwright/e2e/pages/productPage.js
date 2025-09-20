@@ -1,5 +1,4 @@
 const {
-  itemImage,
   itemName,
   itemDescription,
   itemPrice,
@@ -9,7 +8,6 @@ const {
 class ProductPage {
   constructor(page) {
     this.page = page;
-    this.itemImage = page.locator(itemImage);
     this.itemName = page.locator(itemName);
     this.itemDescription = page.locator(itemDescription);
     this.itemPrice = page.locator(itemPrice);
