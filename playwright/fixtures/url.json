@@ -1,0 +1,9 @@
+{
+  "loginURL": "/",
+  "productsURL": "/inventory",
+  "productURL": "/inventory-item",
+  "cartURL": "/cart",
+  "checkoutURL": "/checkout-step-one",
+  "checkoutOverviewURL": "/checkout-step-two",
+  "checkoutCompleteURL": "/checkout-complete"
+}
