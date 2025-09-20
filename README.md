@@ -200,7 +200,7 @@ O projeto está configurado para executar em múltiplos dispositivos:
 - [ ] Integração com CI/CD
 - [ ] Testes de performance
 - [ ] Adaptação automático a múltiplos ambientes (dev, staging, prod)
-- [ ] Implementação de massa de dados e selações inteligentes
+- [ ] Implementação de massa de dados e seleções inteligentes
 - [ ] Coleta de logs importantes para debug
 
 ---
